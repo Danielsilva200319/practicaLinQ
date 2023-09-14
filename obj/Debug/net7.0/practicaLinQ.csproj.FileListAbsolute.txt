@@ -1,0 +1,17 @@
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\bin\Debug\net7.0\practicaLinQ.exe
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\bin\Debug\net7.0\practicaLinQ.deps.json
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\bin\Debug\net7.0\practicaLinQ.runtimeconfig.json
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\bin\Debug\net7.0\practicaLinQ.dll
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\bin\Debug\net7.0\practicaLinQ.pdb
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\practicaLinQ.csproj.AssemblyReference.cache
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\practicaLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\practicaLinQ.AssemblyInfoInputs.cache
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\practicaLinQ.AssemblyInfo.cs
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\practicaLinQ.csproj.CoreCompileInputs.cache
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\practicaLinQ.csproj.CopyComplete
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\practicaLinQ.dll
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\refint\practicaLinQ.dll
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\practicaLinQ.pdb
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\practicaLinQ.genruntimeconfig.cache
+C:\Users\APM02-63\Desktop\C#sharp\practicaLinQ\obj\Debug\net7.0\ref\practicaLinQ.dll
