@@ -14,7 +14,14 @@ internal class Program
         // imprimirValores(queries.LibrosAndroid2005());
         // imprimirValores(queries.Libros250paginas());
         // Console.WriteLine(queries.verificar() ? "Todos los libros contienen un status" : "Al menos uno de los libros no contiene un status");
-        // Console.WriteLine(queries.verificar2005() ? "Hay libros de 2005" : "No hay libros");
+        /* if (queries.verificar2005())
+        {
+            imprimirValores(queries.Libros2005());
+        }
+        else
+        {
+            Console.WriteLine("No hay libros de ese año");
+        } */
     }
     private static void imprimirValores(IEnumerable<Book> books)
     {

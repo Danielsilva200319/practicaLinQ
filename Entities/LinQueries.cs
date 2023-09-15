@@ -26,6 +26,10 @@ public class LinQueries
     {
         return from book in listBooks where book.PublishedDate.Year >200 select book;
     }
+    public IEnumerable<Book> Libros2005()
+    {
+        return from book in listBooks where book.PublishedDate.Year == 2005 select book;
+    }
     public IEnumerable<Book> LibrosAndroid()
     {
         return from book in listBooks where book.Title.Contains("Android") select book;
