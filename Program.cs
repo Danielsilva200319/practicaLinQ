@@ -22,6 +22,9 @@ internal class Program
         {
             Console.WriteLine("No hay libros de ese año");
         } */
+        // imprimirValores(queries.CategoriaPython());
+        // imprimirValores(queries.OrdebyJava());
+        imprimirValores(queries.OrdebyDescedign());
     }
     private static void imprimirValores(IEnumerable<Book> books)
     {

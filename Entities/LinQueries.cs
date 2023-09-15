@@ -50,4 +50,22 @@ public class LinQueries
     {
         return listBooks.Any(book => book.PublishedDate.Year == 2005);
     }
+    public IEnumerable<Book> CategoriaPython()
+    {
+        return listBooks.Where(
+            book => (book.Categories ?? Array.Empty<string>()).Contains("Python")
+        );
+    }
+    public IEnumerable<Book> OrdebyJava()
+    {
+        return listBooks.Where(
+            book => (book.Categories ?? Array.Empty<string>()).Contains("Java")
+        ).OrderBy(book => book.Title);
+    }
+    public IEnumerable<Book> OrdebyDescedign()
+    {
+        return listBooks.Where(
+            book => (book.PageCount > 450)
+        ).OrderByDescending(book => book.PageCount);
+    }
 }
